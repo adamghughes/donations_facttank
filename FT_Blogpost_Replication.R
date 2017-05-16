@@ -9,7 +9,7 @@ library("tidyverse")
 library("haven")
 
 # set working directory
-setwd("/Users/AHughes/Desktop/CCES/")
+setwd("/Users/AHughes/workspace/donations_facttank/")
 
 # there must be two folders in the working directory:
 # data_PRC, which contains the American Trends Panel W21
