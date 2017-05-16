@@ -17,6 +17,10 @@ setwd("/Users/AHughes/workspace/donations_facttank/")
 # time series study in .dta format, downloaded from: 
 # http://www.electionstudies.org/studypages/download/datacenter_all_NoData.php
 
+# Note that this analysis uses ONLY the Face to Face interviews
+# from the ANES. This helps avoid potential mode effects in the 
+# 2012 and 2016 studies. 
+
 ## Question Wording
 # ANES: During an election year people are often asked to make 
 # a contribution to support campaigns. Did you give money to an
